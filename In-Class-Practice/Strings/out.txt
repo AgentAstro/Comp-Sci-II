@@ -1,0 +1,4 @@
+Total a count:   0 | some words some words some words
+ 
+Total a count:   3 | same words same wods same words
+ 
